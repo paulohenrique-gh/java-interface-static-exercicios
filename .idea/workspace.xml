@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Finish exercise 6">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7/Speakable.java" afterDir="false" />
+    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Finish exercise 7">
+      <change afterPath="$PROJECT_DIR$/src/Ex8/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8/Sortable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Run",
+    "Application.Main.executor": "Debug",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -91,7 +90,7 @@
       <workItem from="1719923305952" duration="3268000" />
       <workItem from="1719926608245" duration="4000" />
       <workItem from="1719926618238" duration="782000" />
-      <workItem from="1719927413546" duration="6714000" />
+      <workItem from="1719927413546" duration="11282000" />
     </task>
     <task id="LOCAL-00001" summary="Finish exercise 1">
       <option name="closed" value="true" />
@@ -165,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719940941527</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Finish exercise 7">
+      <option name="closed" value="true" />
+      <created>1719941449703</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719941449703</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +199,23 @@
     <MESSAGE value="Add guard clause to transferMoney method in exercise 5" />
     <MESSAGE value="Fix previous guard clause" />
     <MESSAGE value="Finish exercise 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish exercise 6" />
+    <MESSAGE value="Finish exercise 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish exercise 7" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex8/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="array" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
