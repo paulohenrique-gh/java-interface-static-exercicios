@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Finish exercise 8">
-      <change afterPath="$PROJECT_DIR$/src/Ex9/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex9/EurToThbConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex9/UsdToEurConverter.java" afterDir="false" />
+    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Finish exercise 9">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +87,7 @@
       <workItem from="1719923305952" duration="3268000" />
       <workItem from="1719926608245" duration="4000" />
       <workItem from="1719926618238" duration="782000" />
-      <workItem from="1719927413546" duration="12747000" />
+      <workItem from="1719927413546" duration="12940000" />
     </task>
     <task id="LOCAL-00001" summary="Finish exercise 1">
       <option name="closed" value="true" />
@@ -180,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719946090634</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Finish exercise 9">
+      <option name="closed" value="true" />
+      <created>1719947452509</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719947452509</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +214,8 @@
     <MESSAGE value="Finish exercise 6" />
     <MESSAGE value="Finish exercise 7" />
     <MESSAGE value="Finish exercise 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish exercise 8" />
+    <MESSAGE value="Finish exercise 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish exercise 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
