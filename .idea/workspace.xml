@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Add guard clause to transferMoney method in exercise 5">
+    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Fix previous guard clause">
+      <change afterPath="$PROJECT_DIR$/src/Ex6/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6/Printable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex5/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex5/Bank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -35,7 +40,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -49,6 +61,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Ex6" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,7 +89,7 @@
       <workItem from="1719923305952" duration="3268000" />
       <workItem from="1719926608245" duration="4000" />
       <workItem from="1719926618238" duration="782000" />
-      <workItem from="1719927413546" duration="4630000" />
+      <workItem from="1719927413546" duration="6088000" />
     </task>
     <task id="LOCAL-00001" summary="Finish exercise 1">
       <option name="closed" value="true" />
@@ -127,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719931641973</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fix previous guard clause">
+      <option name="closed" value="true" />
+      <created>1719932195358</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719932195358</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +180,7 @@
     <MESSAGE value="Finish exercise 4" />
     <MESSAGE value="Finish exercise 5" />
     <MESSAGE value="Add guard clause to transferMoney method in exercise 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add guard clause to transferMoney method in exercise 5" />
+    <MESSAGE value="Fix previous guard clause" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix previous guard clause" />
   </component>
 </project>
