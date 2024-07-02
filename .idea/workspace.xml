@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Finish exercise 1">
-      <change afterPath="$PROJECT_DIR$/src/Ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2/TemperatureConverter.java" afterDir="false" />
+    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Finish exercise 2">
+      <change afterPath="$PROJECT_DIR$/src/Ex3/Geometry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio1/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719877364485</updated>
-      <workItem from="1719877365544" duration="2210000" />
+      <workItem from="1719877365544" duration="4815000" />
     </task>
     <task id="LOCAL-00001" summary="Finish exercise 1">
       <option name="closed" value="true" />
@@ -76,14 +74,34 @@
       <option name="project" value="LOCAL" />
       <updated>1719878965081</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finish exercise 2">
+      <option name="closed" value="true" />
+      <created>1719879712400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719879712400</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finish exercise 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish exercise 1" />
+    <MESSAGE value="Finish exercise 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish exercise 2" />
   </component>
 </project>
