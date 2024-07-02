@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Finish exercise 3">
-      <change afterPath="$PROJECT_DIR$/src/Ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4/ProductManager.java" afterDir="false" />
+    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Finish exercise 4">
+      <change afterPath="$PROJECT_DIR$/src/Ex5/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,21 +34,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java/t-ready/Exercicios-STATIC-e-INTERFACE/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Java/t-ready/Exercicios-STATIC-e-INTERFACE/src/Main.java",
+    "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,7 +68,10 @@
       <option name="presentableId" value="Default" />
       <updated>1719877364485</updated>
       <workItem from="1719877365544" duration="5099000" />
-      <workItem from="1719923305952" duration="2492000" />
+      <workItem from="1719923305952" duration="3268000" />
+      <workItem from="1719926608245" duration="4000" />
+      <workItem from="1719926618238" duration="782000" />
+      <workItem from="1719927413546" duration="3870000" />
     </task>
     <task id="LOCAL-00001" summary="Finish exercise 1">
       <option name="closed" value="true" />
@@ -100,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719924793354</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finish exercise 4">
+      <option name="closed" value="true" />
+      <created>1719925828227</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719925828227</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +135,18 @@
     <MESSAGE value="Finish exercise 2" />
     <MESSAGE value="WIP: Exercise 3" />
     <MESSAGE value="Finish exercise 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish exercise 3" />
+    <MESSAGE value="Finish exercise 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish exercise 4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5/Main.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
