@@ -32,7 +32,7 @@ public class Bank {
     }
 
     public static void transferMoney(double amount, String fromAccNumber, String toAccNumber) {
-        if (findAccount(fromAccNumber) == null || findAccount(toAccNumber) == null) return;
+        if (findAccount(toAccNumber) == null) return;
 
         if (withdraw(fromAccNumber, amount)) {
             deposit(toAccNumber, amount);

@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Finish exercise 5">
+    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Add guard clause to transferMoney method in exercise 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ex5/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex5/Bank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +69,7 @@
       <workItem from="1719923305952" duration="3268000" />
       <workItem from="1719926608245" duration="4000" />
       <workItem from="1719926618238" duration="782000" />
-      <workItem from="1719927413546" duration="4149000" />
+      <workItem from="1719927413546" duration="4630000" />
     </task>
     <task id="LOCAL-00001" summary="Finish exercise 1">
       <option name="closed" value="true" />
@@ -118,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719931452768</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add guard clause to transferMoney method in exercise 5">
+      <option name="closed" value="true" />
+      <created>1719931641973</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719931641973</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +151,7 @@
     <MESSAGE value="Finish exercise 3" />
     <MESSAGE value="Finish exercise 4" />
     <MESSAGE value="Finish exercise 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish exercise 5" />
+    <MESSAGE value="Add guard clause to transferMoney method in exercise 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add guard clause to transferMoney method in exercise 5" />
   </component>
 </project>
