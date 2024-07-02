@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="Finish exercise 2">
-      <change afterPath="$PROJECT_DIR$/src/Ex3/Geometry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3/Main.java" afterDir="false" />
+    <list default="true" id="41d7c608-438e-41f3-b9fa-7a77d978d3ae" name="Changes" comment="WIP: Exercise 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3/Geometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3/Geometry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,30 +24,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2ifMphgqHKNK2jbWffWJKdFUd75" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Java/t-ready/Exercicios-STATIC-e-INTERFACE/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java/t-ready/Exercicios-STATIC-e-INTERFACE/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,7 +64,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719877364485</updated>
-      <workItem from="1719877365544" duration="4815000" />
+      <workItem from="1719877365544" duration="5099000" />
+      <workItem from="1719923305952" duration="1324000" />
     </task>
     <task id="LOCAL-00001" summary="Finish exercise 1">
       <option name="closed" value="true" />
@@ -82,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719879712400</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="WIP: Exercise 3">
+      <option name="closed" value="true" />
+      <created>1719882394121</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719882394121</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finish exercise 1" />
     <MESSAGE value="Finish exercise 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish exercise 2" />
+    <MESSAGE value="WIP: Exercise 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP: Exercise 3" />
   </component>
 </project>

@@ -9,10 +9,9 @@ public class Main {
 
         System.out.println("Rectangle example: ");
         System.out.println("Width: 5");
-        System.out.println("Height: 5");
-        System.out.println("Area: " + Geometry.calculateRectangleArea(5, 5));
+        System.out.println("Height: 8");
+        System.out.println("Area: " + Geometry.calculateRectangleArea(5, 8));
         System.out.println("==========");
-
 
         System.out.println("Triangle example: ");
         System.out.println("Base: 35");
@@ -21,6 +20,32 @@ public class Main {
         System.out.println("==========");
 
         System.out.println("Circle example: ");
-        
+        System.out.println("Radius: 12");
+        System.out.println("Area: " + Geometry.calculateCircleArea(12));
+        System.out.println("==========");
+
+        System.out.println("Cube example: ");
+        System.out.println("Side length: 9");
+        System.out.println("Area: " + Geometry.calculateCubeArea(9));
+        System.out.println("==========");
+
+        System.out.println("Parallelepiped example: ");
+        System.out.println("Length: 12");
+        System.out.println("Width: 30");
+        System.out.println("Height: 26");
+        System.out.println("Area: " + Geometry.calculateParallelepipedArea(12, 30, 26));
+        System.out.println("==========");
+
+        System.out.println("Trapezoid example: ");
+        System.out.println("Base 1: 6");
+        System.out.println("Base 2: 9");
+        System.out.println("Height: 12");
+        System.out.println("Area: " + Geometry.calculateTrapezoidArea(6, 9, 12));
+        System.out.println("==========");
+
+        System.out.println("Sphere example: ");
+        System.out.println("Radius: 13");
+        System.out.println("Area: " + Geometry.calculateSphereArea(13));
+        System.out.println("==========");
     }
 }

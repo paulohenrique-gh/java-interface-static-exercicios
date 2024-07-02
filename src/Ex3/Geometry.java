@@ -18,7 +18,7 @@ public class Geometry {
     }
 
     public static double calculateCubeArea(double side) {
-        return Math.pow(side, 3);
+        return 6 * Math.pow(side, 2);
     }
 
     public static double calculateParallelepipedArea(double length, double width, double height) {
@@ -30,6 +30,6 @@ public class Geometry {
     }
 
     public static double calculateSphereArea(double radius) {
-        return 4 * Math.PI * Math.pow(radius, 3) / 3;
+        return 4 * Math.PI * Math.pow(radius, 2);
     }
 }
