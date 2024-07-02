@@ -1,4 +1,4 @@
-package Exercicio1;
+package Ex1;
 
 public class Counter {
     public static int count = 0;
